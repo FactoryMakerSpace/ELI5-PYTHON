@@ -25,5 +25,5 @@ print(message)
 
 # One nice thing about variables is that we can reassign the values easily, like we did on line 6
 
-# TODO: Create a new variable and print it
+# TODO: Create a new variable and print it - When you are done, commit into git!
 
